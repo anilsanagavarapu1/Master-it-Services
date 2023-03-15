@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="627.282" height="624.224" viewBox="0 0 627.282 624.224">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.558" x2="1" y2="0.558" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#7d4d28"/>
+      <stop offset="0.204" stop-color="#a8653c"/>
+      <stop offset="0.518" stop-color="#eb895b"/>
+      <stop offset="1" stop-color="#dc7b2d"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_9211" data-name="Group 9211" transform="translate(-244.442 -93)">
+    <g id="Group_9210" data-name="Group 9210" transform="translate(244.442 264.522) rotate(-90)">
+      <rect id="Rectangle_4255" data-name="Rectangle 4255" width="107.201" height="230.675" transform="translate(32.16 83.043)" fill="#f26522"/>
+      <path id="Polygon_2" data-name="Polygon 2" d="M85.761,0l85.761,87.144H0Z" fill="#f26522"/>
+      <text id="VISION" transform="translate(71.299 198.141) rotate(90)" fill="#fff" font-size="40" font-family="Lato-Bold, Lato" font-weight="700" letter-spacing="0.1em"><tspan x="-78.6" y="0">VISION</tspan></text>
+    </g>
+    <g id="Group_9209" data-name="Group 9209" transform="translate(871.724 255.142) rotate(90)">
+      <rect id="Rectangle_4255-2" data-name="Rectangle 4255" width="107.201" height="230.675" transform="translate(32.16 83.043)" fill="#f26522"/>
+      <path id="Polygon_2-2" data-name="Polygon 2" d="M85.761,0l85.761,87.144H0Z" fill="#f26522"/>
+      <text id="MISSION" transform="translate(101.082 285.141) rotate(-90)" fill="#fff" font-size="40" font-family="Lato-Bold, Lato" font-weight="700" letter-spacing="0.1em"><tspan x="0" y="0">MISSION</tspan></text>
+    </g>
+    <path id="Rectangle_4256" data-name="Rectangle 4256" d="M0,0H7A0,0,0,0,1,7,0V588.5A3.5,3.5,0,0,1,3.5,592h0A3.5,3.5,0,0,1,0,588.5V0A0,0,0,0,1,0,0Z" transform="translate(550.583 125.224)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>
