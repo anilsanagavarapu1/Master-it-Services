@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Master-it-Services/static/css/main.073c9b0a.css",
+    "main.js": "/Master-it-Services/static/js/main.08763846.js",
+    "index.html": "/Master-it-Services/index.html",
+    "main.073c9b0a.css.map": "/Master-it-Services/static/css/main.073c9b0a.css.map",
+    "main.08763846.js.map": "/Master-it-Services/static/js/main.08763846.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.08763846.js"
+  ]
+}
