@@ -172,7 +172,7 @@ const Home = () => {
             <div className="row mb-5">
               <div className="col-12">
                 <p className="section-heading">
-                  ABOUT <span className="text-highlight">TRETA</span> INFOTECH
+                  ABOUT <span className="text-highlight">masterit</span>{" "}
                 </p>
                 <div className="section-heading-line"></div>
               </div>
@@ -181,12 +181,13 @@ const Home = () => {
               <div className="col-md-6 col-lg-6">
                 <div className="d-flex h-100 flex-column">
                   <p className="lh-lg mb-5 mb-md-0 lead font-weight-normal">
-                    Treta Infotech is a custom software development and IT
-                    Consulting company that provides services to enterprises
-                    across the globe. We customize and implement solutions that
-                    are built on cloud platform like Azure, AWS and Google. Our
-                    core strength is custom application development and custom
-                    API integration using cloud platform as a service.
+                    MasterIt Software Solutions & Services Pvt Ltd is a custom
+                    software development and IT Consulting company that provides
+                    services to enterprises across the globe. We customize and
+                    implement solutions that are built on cloud platform like
+                    Azure, AWS and Google. Our core strength is custom
+                    application development and custom API integration using
+                    cloud platform as a service.
                   </p>
                   <div className="d-none d-md-block mt-auto">
                     <a href="aboutus.html" className="btn btn-regular mt-3">
@@ -1448,7 +1449,7 @@ const Home = () => {
                   />
                   <img
                     src="images/blog-post.jpg"
-                    alt="Treta Infotech Blog"
+                    alt="MasterIt Software Solutions & Services Pvt Ltd Blog"
                     className="img-fluid w-100"
                   />
                 </picture>
