@@ -1,3 +1,6 @@
+/* eslint-disable */
+/* eslint no-use-before-define: 0 */
+/* eslint-disable no-unused-expressions */
 import React from "react";
 import ReactDOM from "react-dom/client";
 import "./index.css";

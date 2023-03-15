@@ -30,11 +30,11 @@ const Career = () => {
                 <picture>
                   <source
                     media="(max-width:767px)"
-                    src="images/mb-treta-office.jpg"
+                    src="images/mb-masterit-office.jpg"
                   />
                   <img
-                    src="images/treta-office.jpg"
-                    alt="Treta Infotech Office"
+                    src="images/masterit-office.jpg"
+                    alt="MasterIt Software Solutions & Services Pvt Ltd Office"
                     className="img-fluid w-100"
                   />
                 </picture>
@@ -42,18 +42,19 @@ const Career = () => {
                   <div className="blog-card-main w-100">
                     <div className="blog-post py-4">
                       <p>
-                        The Treta is one of the fastest growing software
+                        The MasterIt is one of the fastest growing software
                         development company in India. In a short span, it has
                         also become one of the most preferred IT Company for job
-                        seekers especially in Surat region. Treta team believes
-                        that business sustains only when all stakeholders are
-                        satisfied and delighted with your services. Being a part
-                        of Treta team, you will be one of our highly valuable
-                        stakeholders and appreciating asset. We firmly believe
-                        that, employees are our appreciative asset and all
-                        employees are unique in their skills and contribution to
-                        the Company. We are looking for people who have a desire
-                        to learn and have a zeal to convert ideas to reality.
+                        seekers especially in Surat region. MasterIt team
+                        believes that business sustains only when all
+                        stakeholders are satisfied and delighted with your
+                        services. Being a part of MasterIt team, you will be one
+                        of our highly valuable stakeholders and appreciating
+                        asset. We firmly believe that, employees are our
+                        appreciative asset and all employees are unique in their
+                        skills and contribution to the Company. We are looking
+                        for people who have a desire to learn and have a zeal to
+                        convert ideas to reality.
                       </p>
                     </div>
                   </div>
@@ -144,11 +145,11 @@ const Career = () => {
                 <picture>
                   <source
                     media="(max-width:767px)"
-                    src="images/mb-treta-room.jpg"
+                    src="images/mb-masterit-room.jpg"
                   />
                   <img
-                    src="images/treta-room.jpg"
-                    alt="Treta Infotech Office"
+                    src="images/masterit-room.jpg"
+                    alt="MasterIt Software Solutions & Services Pvt Ltd Office"
                     className="img-fluid w-100"
                   />
                 </picture>
@@ -194,13 +195,13 @@ const Career = () => {
       </section>
 
       <section>
-        <div className="container-fluid py-5 bg-lifetreta">
+        <div className="container-fluid py-5 bg-lifemasterit">
           <div className="container py-5">
             <div className="row">
               <div className="col-md-6 offset-md-1 col-lg-4 offset-lg-1">
                 <div className="bg-white p-4">
                   <h1 className="mb-4">
-                    Life &#64; <span className="text-highlight">Treta</span>
+                    Life &#64; <span className="text-highlight">MasterIt</span>
                   </h1>
                   <p>
                     {" "}
@@ -238,7 +239,7 @@ const Career = () => {
                 <div className="awward-icon-option">
                   <a
                     className="d-inline-block"
-                    href="https://www.microsoft.com/en-US/solution-providers/partnerdetails/treta-infotech_a3a9072b-5c57-4c43-a842-6a1fa6fa438e/77ae9074-4916-4917-b86a-d15c01fc053bdotnet"
+                    href="https://www.microsoft.com/en-US/solution-providers"
                     target="_blank"
                     rel="noopener"
                   >
@@ -263,7 +264,7 @@ const Career = () => {
                 </div>
                 <div>
                   <a
-                    href="https://clutch.co/profile/treta-infotech"
+                    href="https://clutch.co/profile/masterit"
                     target="_blank"
                     rel="noopener"
                   >

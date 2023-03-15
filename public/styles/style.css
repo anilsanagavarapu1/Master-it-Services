@@ -1004,17 +1004,13 @@ footer p {
 .main-page-title {
   position: relative;
   min-height: 270px;
-  background: #f66447;
-  background-image: linear-gradient(
-    to right,
-    rgba(240, 152, 25, 0.9),
-    rgba(255, 81, 47, 0.9)
-  );
+  background: #43baff;
+  background-image: linear-gradient(to right, #364bb63b, #43baff);
 }
 .theme-pattern {
   background-image: url("../images/onlydot-white-50.svg"),
     url("../images/bardot-white-right.svg"),
-    linear-gradient(to right, rgba(240, 152, 25, 0.9), rgba(255, 81, 47, 0.9));
+    linear-gradient(to right, #364bb63b, #43baff);
   background-position: left top, right bottom;
   background-repeat: no-repeat;
   background-size: 130px, 300px, cover;
@@ -1022,7 +1018,7 @@ footer p {
 .theme-pattern-flip {
   background-image: url("../images/onlydot-white-50.svg"),
     url("../images/bardot-white-left.svg"),
-    linear-gradient(to right, rgba(240, 152, 25, 0.9), rgba(255, 81, 47, 0.9));
+    linear-gradient(to right, #364bb63b, #43baff);
   background-position: top right, left bottom;
   background-repeat: no-repeat;
   background-size: 130px, 300px, cover;
@@ -1078,12 +1074,12 @@ textarea.form-control {
   position: absolute;
   top: 100%;
   left: 40px;
-  color: #e74c3c;
+  color: #43baff;
   display: none;
   font-size: 13px;
 }
 .field-validation-error {
-  color: #e74c3c;
+  color: #43baff;
 }
 input[type="text"],
 input[type="password"],
@@ -1094,7 +1090,7 @@ textarea {
 }
 span.required::after {
   content: "*";
-  color: #f00;
+  color: #43baff;
 }
 .spiner-size {
   width: 45px !important;
@@ -1106,13 +1102,13 @@ span.required::after {
   margin-right: auto;
 }
 .submit-fail-text {
-  color: #e74c3c;
+  color: #43baff;
 }
 .input-validation-error.form-control {
-  border-color: #e74c3c;
+  border-color: #43baff;
 }
 .input-has-icon.required .form-control {
-  border-color: #e74c3c;
+  border-color: #43baff;
 }
 .input-has-icon .error-msg {
   display: block;
@@ -1121,9 +1117,9 @@ span.required::after {
 textarea.form-control:focus {
   color: #495057;
   background-color: #fff;
-  border-color: #f06828;
+  border-color: #43baff;
   outline: 0;
-  box-shadow: 0 0 0 0.2rem rgba(242, 101, 34, 0.25);
+  box-shadow: 0 0 0 0.2rem rgb(34 205 242 / 25%);
 }
 .input-has-icon .form-control:focus ~ .input-icon-box {
   background-color: #43baff;
@@ -1248,7 +1244,7 @@ textarea.form-control:focus {
   border-bottom: 1px solid rgba(242, 101, 34, 0.27);
 }
 .business-navigation li + li.active > li {
-  border: 5px solid #f00;
+  border: 5px solid #43baff;
 }
 .business-navigation li.active {
   background-color: #43baff;
@@ -1269,8 +1265,8 @@ textarea.form-control:focus {
   orphans: 1;
   widows: 1;
 }
-.bg-lifetreta {
-  background-image: url("../images/lifetreta-back.jpg");
+.bg-lifemasterit {
+  background-image: url("../images/lifemasterit-back.jpg");
   background-position: center;
   background-size: cover;
 }

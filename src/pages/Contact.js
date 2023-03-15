@@ -35,7 +35,7 @@ const Contact = () => {
               data-ajax-loading="#resultTarget"
               id="ContactForm"
               className="contact_us_form"
-              action="https://www.tretainfotech.com/ContactUs/ContactUs"
+              action="https://www.masteritinfotech.com/ContactUs/ContactUs"
               method="post"
             >
               <div className="row">
@@ -231,7 +231,7 @@ const Contact = () => {
                 <div className="awward-icon-option">
                   <a
                     className="d-inline-block"
-                    href="https://www.microsoft.com/en-US/solution-providers/partnerdetails/treta-infotech_a3a9072b-5c57-4c43-a842-6a1fa6fa438e/77ae9074-4916-4917-b86a-d15c01fc053bdotnet"
+                    href="https://www.microsoft.com/en-US/solution-providers/partnerdetails/masterit-infotech_a3a9072b-5c57-4c43-a842-6a1fa6fa438e/77ae9074-4916-4917-b86a-d15c01fc053bdotnet"
                     rel="noopener"
                   >
                     <img
@@ -253,10 +253,7 @@ const Contact = () => {
                   </a>
                 </div>
                 <div>
-                  <a
-                    href="https://clutch.co/profile/treta-infotech"
-                    rel="noopener"
-                  >
+                  <a href="https://clutch.co/profile/masterit" rel="noopener">
                     <div className="awward-icon">
                       <img src="images/clutch-logo.png" alt="Clutch Logo" />
                     </div>
@@ -303,49 +300,22 @@ const Contact = () => {
                       <div className="flag-box">
                         <img src="images/ind-flag.png" alt="India Flag" />
                       </div>
-                      <p className="font-weight-bold mb-3">Surat Office</p>
+                      <p className="font-weight-bold mb-3">Bangalore Office</p>
                       <p>
                         {" "}
-                        402, Star World,
+                        E-City
                         <br />
-                        Opp. Green City Recidency,
+                        Phase-1
                         <br />
-                        Green City Road,
+                        Bangalore
                         <br />
-                        Pal, Surat - 394510
+                        Karnataka - 560100
                       </p>
                       <p className="email-box mt-3">
                         <span className="icon-box">
                           <i className="fa fa-envelope"></i>
                         </span>
-                        contact@tretainfotech.com
-                      </p>
-                    </div>
-                  </div>
-                  <div className="item">
-                    <div className="test-card">
-                      <div className="orange-quotes">
-                        <i className="fa fa-map-marker-alt fa-2x"></i>
-                      </div>
-                      <div className="flag-box">
-                        <img src="images/usa-flag.png" alt="USA Flag" />
-                      </div>
-                      <p classNameName="font-weight-bold mb-3">USA Office</p>
-                      <p>
-                        {" "}
-                        22802 Broadway Avenue,
-                        <br />
-                        Clarksburg,
-                        <br />
-                        Maryland - 20871
-                        <br />
-                        &nbsp;
-                      </p>
-                      <p className="email-box mt-3">
-                        <span className="icon-box">
-                          <i className="fa fa-envelope"></i>
-                        </span>
-                        contact@tretainfotech.com
+                        suppport@masteritservices.com
                       </p>
                     </div>
                   </div>

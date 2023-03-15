@@ -1,6 +1,6 @@
 {
-  "name": "Treta Infotech",
-  "short_name": "TIPL",
+  "name": "MasterIt Software Solutions & Services Pvt Ltd",
+  "short_name": "MITSSS",
   "icons": [
     {
       "src": "chrome_favicon_192x192.png",
@@ -12,7 +12,7 @@
       "src": "favicon-512x512.png",
       "sizes": "512x512",
       "type": "image/png"
-    } 
+    }
   ],
   "start_url": "/",
   "theme_color": "#ffffff",
